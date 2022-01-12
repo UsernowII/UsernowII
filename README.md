@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**UsernowII/UsernowII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 I'm a creative person who likes challenges and teamwork, passionate about the world of technology and especially about software development.
 
@@ -12,4 +8,4 @@ I'm a creative person who likes challenges and teamwork, passionate about the wo
 
 If you want know something more , just Ask !
 
--->
+
